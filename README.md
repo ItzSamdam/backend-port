@@ -1,4 +1,4 @@
-<p align="center"><a href="https://nodejs.org" target="_blank"><img src="https://th.bing.com/th/id/OIP.29jQoZ-PwGSVpi1b-n2NOQHaE8?w=260&h=180&c=7&r=0&o=5&pid=1.7" width="400"></a></p>
+<p align="center"><a href="https://nodejs.org" target="_blank"><img src="https://nodejs.org/static/images/logo.svg" width="400"></a></p>
 
 ## About Node JS
 
